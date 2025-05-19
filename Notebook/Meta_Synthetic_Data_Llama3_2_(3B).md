@@ -1,0 +1,1 @@
+[Meta_Synthetic_Data_Llama3_2_(3B).ipynb](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Meta_Synthetic_Data_Llama3_2_(3B).ipynb)
