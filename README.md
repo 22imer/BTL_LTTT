@@ -1,4 +1,4 @@
-# Hướng Dẫn Deep Learning Bằng Synthetic Data Cho Mô Hình LLaMA 3.2
+# Hướng Dẫn Fine-Tune Bằng Synthetic Data Cho Mô Hình LLaMA 3.2
 
 ## Giới Thiệu
 Bài viết này cung cấp hướng dẫn chi tiết về cách sử dụng synthetic data để huấn luyện mô hình LLaMA 3.2. Quy trình bao gồm việc tạo dữ liệu từ tài liệu giáo trình, định dạng dữ liệu phù hợp và thực hiện huấn luyện mô hình.
@@ -48,9 +48,10 @@ Lưu mô hình dưới dạng .gguf
 2. Kiểm Tra Mô Hình
 Sử dụng UI để có thể chạy được model có thể là web-ui hoặc app 
 # 👋[jan.ai](https://github.com/menloresearch/jan)
+# [Link Model Fine-Tune](https://drive.google.com/drive/folders/18akA-nlIwlFs2n5mZJSOn5MeLU7VJCCB)
 
-
-[Demo](demo) 8gb VRAM
+Spec: 8Gb Vram
+![Ảnh](demo/demo.png)
 
 
 
